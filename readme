@@ -1,0 +1,2 @@
+Place all three files (script.py, stack.py, and node.py) in the same directory,
+and run the script.py file on the terminal (python 3 script.py) to play Towers of Hanoi.
