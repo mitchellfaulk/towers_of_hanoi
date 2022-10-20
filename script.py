@@ -22,7 +22,7 @@ while num_disks > 1000:
 for i in range(num_disks, 0, -1):
   left_stack.push(i)
 num_optimal_moves = 2 ** num_disks - 1
-print('\n The fastest you can solve this game is in {} moves.'.format(num_optimal_moves))
+print('\nThe fastest you can solve this game is in {} moves.'.format(num_optimal_moves))
 
 # Define a function for user to select moves 
 def get_input():
